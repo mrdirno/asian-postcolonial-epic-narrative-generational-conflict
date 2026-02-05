@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-epic-narrative-generational-conflict",
+  "title": "The Names We Carry",
+  "tagline": "A family's buried shame becomes a young man's inheritance in postcolonial Singapore.",
+  "target_words": 70000,
+  "actual_words": 71449,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Colonial Collaboration",
+    "Silence as a Form of Violence",
+    "Modern Identity vs. Ancestral Shame",
+    "The Physical Archive as Family Trauma"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of a Name",
+      "words": 2977
+    },
+    {
+      "ch": 2,
+      "title": "The Rosewood Cabinet",
+      "words": 2977
+    },
+    {
+      "ch": 3,
+      "title": "Echoes of the Occupation",
+      "words": 2977
+    },
+    {
+      "ch": 4,
+      "title": "The Ledger's First Entry",
+      "words": 2977
+    },
+    {
+      "ch": 5,
+      "title": "Mother's Confession",
+      "words": 2977
+    },
+    {
+      "ch": 6,
+      "title": "Grandfather's Wall",
+      "words": 2977
+    },
+    {
+      "ch": 7,
+      "title": "The Ghost of Tan Hock Seng",
+      "words": 2977
+    },
+    {
+      "ch": 8,
+      "title": "Five-Foot Way Conversations",
+      "words": 2977
+    },
+    {
+      "ch": 9,
+      "title": "Ink and Silence",
+      "words": 2977
+    },
+    {
+      "ch": 10,
+      "title": "The Condominium's Shadow",
+      "words": 2977
+    },
+    {
+      "ch": 11,
+      "title": "A Fractured Ceasefire",
+      "words": 2977
+    },
+    {
+      "ch": 12,
+      "title": "The Unlocked Drawer",
+      "words": 2977
+    },
+    {
+      "ch": 13,
+      "title": "Witnesses in Paper",
+      "words": 2977
+    },
+    {
+      "ch": 14,
+      "title": "The Price of a Name",
+      "words": 2977
+    },
+    {
+      "ch": 15,
+      "title": "Kai's Rebellion",
+      "words": 2977
+    },
+    {
+      "ch": 16,
+      "title": "Li An's Choice",
+      "words": 2977
+    },
+    {
+      "ch": 17,
+      "title": "The Printing Press",
+      "words": 2977
+    },
+    {
+      "ch": 18,
+      "title": "Confronting the Kapitan",
+      "words": 2977
+    },
+    {
+      "ch": 19,
+      "title": "Shophouse vs. Steel",
+      "words": 2977
+    },
+    {
+      "ch": 20,
+      "title": "The Burden Accepted",
+      "words": 2977
+    },
+    {
+      "ch": 21,
+      "title": "A Different Arithmetic",
+      "words": 2977
+    },
+    {
+      "ch": 22,
+      "title": "Burning or Preserving",
+      "words": 2977
+    },
+    {
+      "ch": 23,
+      "title": "The Third Name",
+      "words": 2977
+    },
+    {
+      "ch": 24,
+      "title": "Forward, With the Past",
+      "words": 2977
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from a younger generation discovers a physical object (a letter, a photo, a tool) that contradicts the family's official story about an ancestor.",
+      "Imagine a conversation between Kai and a contemporary friend who sees his family's shophouse not as a treasure, but as a burden holding them back from modern success.",
+      "Draft a monologue from the perspective of Wee Teck, explaining his shame and his strategy of silence to a confidant he will never have.",
+      "Create a 'found document'—a ledger entry, a ration order, a faded letter—from Tan Hock Seng's time that reveals a moral dilemma he faced."
+    ],
+    "technical": [
+      "Build an interactive 'archive' website for the novel, where users can click on items in a 3D model of the rosewood cabinet to reveal fragments of ledgers, letters, and historical context.",
+      "Develop a text analysis tool that compares the language and syntax used in dialogue by the three generations (Kai, Li An, Wee Teck) to visualize their emotional and ideological distances."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Kazuo Ishiguro",
+      "Ocean Vuong",
+      "Min Jin Lee",
+      "Pramoedya Ananta Toer"
+    ]
+  },
+  "cover_prompt": "A young man in a modern apartment, his back to the viewer, holds a crumbling, handwritten ledger while gazing at a ghostly, translucent overlay of his grandfather in a 1940s office, formally shaking hands with a British officer, [Detailed Scene & Context: the spectral historical scene is superimposed over the contemporary Singapore skyline visible through a rain-streaked window, with archival documents and faded photographs scattered across a minimalist desk], [Artistic Style & Medium: in the atmospheric, emotionally charged style of a Minguelanxo Prado graphic novel illustration, with the textural depth and solemn realism of a Kent Monkman history painting, rendered in detailed ink wash and muted watercolor], [Composition & Camera: book cover framing, a centered but split composition where the past and present occupy the same space, shot from a medium close-up, slightly low angle to emphasize the weight of the gaze], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single stark light source from the window, casting long shadows; a palette of sepia tones for the past, cool, desaturated blues and greys for the present, with accents of faded red ledger ink], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
