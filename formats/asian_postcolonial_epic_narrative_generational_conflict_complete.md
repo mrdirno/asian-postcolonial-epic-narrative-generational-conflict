@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The first thing the boy learned was the weight of a name. Not his own—his was light, a single syllable, *Kai*—but the one he was forbidden to speak. It lived in the house like a third presence, a scent of old paper and bitter tea that clung to the curtains even when the windows were thrown open to the Singapore humidity. It was in the way his mother, Li An, would pause mid-sentence while shelling prawns at the kitchen sink, her fingers stilling as if listening for an echo from the high-ceilinged rooms of the old *shophouse*. It was the name on the spines of the leather-bound ledgers stacked in the study, ledgers his grandfather, Wee Teck, polished every Sunday with a cloth and a silence so profound it felt like violence.
@@ -97,6 +99,8 @@ Kai returned to his bed, but sleep was impossible. The numbers from his math boo
 He was nine years old. The weight of the name, Tan Hock Seng, now sat squarely on his own small chest. And he knew, with a certainty that chilled him, that the lock on the cabinet was not just on the wood. It was on him, too. And one day, he would have to find the key, or break it open.
 
 ---
+# Chapter 2
+
 ## **Chapter 2**
 
 The stationery shop, “Wee’s Essentials,” was a capsule of order in the chaotic heart of Queen Street. It smelled of pencil shavings, fresh paper, and the faint, clean scent of the gum arabic used in the ledger books Wee Teck still sold to a few old-fashioned accountants. For Kai, now twelve, the shop was a weekend prison. His sentence: inventory.
@@ -200,6 +204,8 @@ Kai slipped back to his room. He did not look in the mirror again. He lay in bed
 The weight was no longer just on his chest. It was in his marrow. And for the first time, alongside the fear, a spark of anger ignited. Why should he carry this? Why should his life be shaped by a ghost’s choices and a grandfather’s fear? The questions were no longer landmines he was afraid to step on. They were tools. And he would need them to dig his way out, or dig his way in.
 
 ---
+# Chapter 3
+
 ## **Chapter 3**
 
 The key was not a key. It was a slip of paper, onion-skin thin, hidden inside a hollowed-out copy of *The General Theory of Relativity* on the highest shelf of the study. Kai found it because he was looking for something else—an escape into the clean, vast universe of physics, where problems had solutions and shame had no mass.
